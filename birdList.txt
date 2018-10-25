@@ -1,0 +1,59 @@
+1	Common Quail
+2	Grey Partridge
+3	Ruddy Duck
+4	White-headed Duck
+5	Black Swan
+6	Mute Swan
+7	Tundra Swan
+8	Whooper Swan
+9	Brent Goose
+10	Barnacle Goose
+11	Red-breasted Goose
+12	Cackling Goose
+13	Canada Goose
+14	Snow Goose
+15	Ross's Goose
+16	Bar-headed Goose
+17	Pink-footed Goose
+18	Greylag Goose
+19	Bean Goose
+20	Greater White-fronted Goose
+21	Lesser White-fronted Goose
+22	Long-tailed Duck
+23	King Eider
+24	Common Eider
+25	Steller's Eider
+26	Surf Scoter
+27	Velvet Scoter
+28	Common Scoter
+29	Black Scoter
+30	Bufflehead
+31	Common Goldeneye
+32	Smew
+33	Hooded Merganser
+34	Goosander
+35	Red-breasted Merganser
+36	Harlequin Duck
+37	Egyptian Goose
+38	Common Shelduck
+39	Ruddy Shelduck
+40	Marbled Teal
+41	Red-crested Pochard
+42	Common Pochard
+43	Redhead
+44	Ferruginous Duck
+45	Ring-necked Duck
+46	Tufted Duck
+47	Greater Scaup
+48	Lesser Scaup
+49	Garganey
+50	Northern Shoveler
+51	Blue-winged Teal
+52	Baikal Teal
+53	Falcated Duck
+54	Gadwall
+55	Eurasian Wigeon
+56	American Wigeon
+57	Mallard
+59	Northern Pintail
+60	Common Teal
